@@ -29,3 +29,4 @@ def print_compcard(numbers):
     print(numbers[:5])
     print(numbers[5:10])
     print(numbers[10:])
+

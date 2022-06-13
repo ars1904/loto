@@ -1,0 +1,12 @@
+collected 1 item
+
+test_classCard.py .                                                                                                                                        [100%]
+
+---------- coverage: platform linux, python 3.10.4-final-0 -----------
+Name                Stmts   Miss  Cover
+---------------------------------------
+class_card.py           5      0   100%
+func_loto.py           26     14    46%
+test_classCard.py       6      0   100%
+---------------------------------------
+TOTAL                  37     14    62%
